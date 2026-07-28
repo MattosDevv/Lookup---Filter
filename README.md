@@ -1,4 +1,4 @@
-# LookupFilter
+# 🚀 Lookup - Filter
 
 Scanner de processos Windows **somente leitura** — detecta sinais de hooks e threads suspeitas sem modificar nenhum processo.
 
@@ -10,7 +10,10 @@ Varre todos os processos em execução e procura por:
 - **IAT Hook** — entrada na Import Address Table aponta para fora da `ntdll.dll` esperada
 - **Thread estranha** — thread iniciada em endereço fora de qualquer módulo carregado
 
-
+## Utilizaçao
+> - O código demonstra a implementação de técnicas básicas de detecção
+> - fácil de entender para que outros desenvolvedores possam estudar, aprimorar e expandir suas próprias implementações.
+> - Sinta-se à vontade para utilizar este código como referência em seus projetos, adaptá-lo às suas necessidades e contribuir com melhorias.
 
 ## Como compilar
 
