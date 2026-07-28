@@ -1,9 +1,6 @@
 # 🚀 Lookup - Filter
 
-Scanner de processos Windows **somente leitura** — detecta sinais de hooks e threads suspeitas sem modificar nenhum processo. Caso queiram ter uma base de como funciona basta ir nas seguintes pastas.
-x64/
-└── Release/
-    └── Lookup - Filter.exe
+Scanner de processos Windows **somente leitura** — detecta sinais de hooks e threads suspeitas sem modificar nenhum processo. Demonstraçao na pasta **x64**
 
 
 Varre todos os processos em execução e procura por:
