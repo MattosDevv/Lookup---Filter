@@ -2,7 +2,6 @@
 
 Scanner de processos Windows **somente leitura** — detecta sinais de hooks e threads suspeitas sem modificar nenhum processo.
 
-## O que faz
 
 Varre todos os processos em execução e procura por:
 
