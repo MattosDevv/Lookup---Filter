@@ -1,4 +1,8 @@
 # 🚀 Lookup - Filter
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" alt="C++"/>
+  </p>
 
 Scanner de processos Windows **somente leitura** — detecta sinais de hooks e threads suspeitas sem modificar nenhum processo. Demonstraçao na pasta **x64**
 
